@@ -2,6 +2,8 @@
 
     <head>
         <title>{{ question.question_text }}</title>
+        {% load static %}
+        <link rel="stylesheet" href="{% static 'polls/style.css' %}">
     </head>
 
     <body>
@@ -17,8 +19,9 @@
                 <label for="choice{{ forloop.counter }}">{{ choice.choice_text }}</label><br>
                 {% endfor %}
             </fieldset>
-            <input type="submit" value="Vote">
+            <input type="submit" class="vote" style="display: flex;margin-left: auto;margin-right: auto;" value="Vote">
         </form>
+        <a href="{% url 'polls:index' %}" class="vote">See Polls</a>
     </body>
 
 </html>
