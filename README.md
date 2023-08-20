@@ -43,5 +43,5 @@ Follow these instructions to get the project up and running on your local machin
 
 Here's a screenshot of the application's main page:
 
-![Main Page]([images/screenshot.png](https://github.com/Generalchrist/DjangoPolls/blob/main/images/Screen%20Shot%202023-08-20%20at%2023.09.30-fullpage.png)https://github.com/Generalchrist/DjangoPolls/blob/main/images/Screen%20Shot%202023-08-20%20at%2023.09.30-fullpage.png)
+![Main Page]([images/Screen Shot 2023-08-20 at 23.09.30-fullpage.png)
 
