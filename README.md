@@ -39,7 +39,7 @@ Follow these instructions to get the project up and running on your local machin
 
 2. Open your web browser and go to `http://127.0.0.1:8000/` to access the application.
 
-## Usage
+## Photos
 
 Here's a screenshot of the application's main page:
 
