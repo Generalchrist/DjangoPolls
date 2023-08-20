@@ -51,7 +51,7 @@ Here's a screenshot of the application's main page:
 
 Here's an example of question choices displayed on the user interface:
 
-![Question Choices](images/Screen%Shot%2023-08-20%at%23.09.38-fullpage.png)
+![Question Choices](images/Screen%20Shot%202023-08-20%20at%2023.09.38-fullpage.png)
 
 ### Vote Results
 
