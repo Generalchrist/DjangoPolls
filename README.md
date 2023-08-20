@@ -57,7 +57,7 @@ Here's an example of question choices displayed on the user interface:
 
 View the vote results after users have cast their votes:
 
-![Vote Results](/images/Screen%Shot%2023-08-20%at%23.09.42-fullpage.png)
+![Vote Results](/images/Screen%20Shot%2023-08-20%20at%2023.09.42-fullpage.png)
 
 ## Admin Dashboard
 
@@ -65,25 +65,26 @@ View the vote results after users have cast their votes:
 
 As an admin, this is how the main dashboard page looks:
 
-![Admin Dashboard Main Page](/images/Screen%Shot%2023-08-20%at%23.09.55-fullpage.png)
+![Admin Dashboard Main Page](/images/Screen%20Shot%2023-08-20%20at%2023.09.55-fullpage.png)
 
 ### Questions Section
 
 Manage all the questions from the admin dashboard:
 
-![Admin Dashboard Questions](/images/Screen%Shot%2023-08-20%at%23.09.58-fullpage.png)
+![Admin Dashboard Questions](/images/Screen%20Shot%2023-08-20%20at%2023.09.58-fullpage.png)
 
 ### Question Detail Section
 
 Get detailed insights about a specific question:
 
-![Admin Dashboard Question Detail](/images/Screen%Shot%2023-08-20%at%23.10.03-fullpage.png)
+![Admin Dashboard Question Detail](/images/Screen%20Shot%2023-08-20%20at%2023.10.03-fullpage.png)
 
 ### Questions History Section
 
 Review the history of changes and interactions with questions:
 
-![Admin Dashboard Questions History](/images/Screen%Shot%2023-08-20%at%23.10.08-fullpage.png)
+![Admin Dashboard Questions History](/images/Screen%20Shot%2023-08-20%20at%2023.10.08-fullpage.png)
+
 
 
 
