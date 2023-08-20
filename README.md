@@ -39,3 +39,9 @@ Follow these instructions to get the project up and running on your local machin
 
 2. Open your web browser and go to `http://127.0.0.1:8000/` to access the application.
 
+## Usage
+
+Here's a screenshot of the application's main page:
+
+![Main Page]([images/screenshot.png](https://github.com/Generalchrist/DjangoPolls/blob/main/images/Screen%20Shot%202023-08-20%20at%2023.09.30-fullpage.png)https://github.com/Generalchrist/DjangoPolls/blob/main/images/Screen%20Shot%202023-08-20%20at%2023.09.30-fullpage.png)
+
