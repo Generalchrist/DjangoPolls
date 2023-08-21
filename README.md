@@ -9,8 +9,7 @@ Welcome to my Django project repository! This is a simple web application built 
   - [Prerequisites](#prerequisites)
   - [Installation](#installation)
   - [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
+- [Photos](#photos)
 
 ## Introduction
 This project is a basic Django web application that demonstrates the usage of the Django framework. It includes features such as user authentication and a simple data model.
